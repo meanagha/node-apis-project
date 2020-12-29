@@ -1,2 +1,2 @@
 # node-apis-project
-Node ,Typescript,MongoDb API
+- Node.js + Javascript + Express + Sequelize
